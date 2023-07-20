@@ -1,0 +1,23 @@
+{
+  "name": "campgorund",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getCGInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log-update": "^5.0.1",
+    "node-cron": "^3.0.1",
+    "node-notifier": "^10.0.1",
+    "play-sound": "^1.1.5",
+    "qs": "^6.10.5"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.4",
+    "uuid": "^8.3.2"
+  }
+}
